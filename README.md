@@ -7,6 +7,8 @@ This link did not help me save the video with the bounding box so i had to imrov
 
 > Working on the new way
 
+I am now using the github repository of darknet, the original YOLO git link to genrate the predictions.
+
 
 > Requirements:
 
