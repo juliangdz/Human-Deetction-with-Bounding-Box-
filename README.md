@@ -4,7 +4,7 @@ Human Detection using Pytorch
 
 I have Used the Pytorch with YOLO repository from https://github.com/ayooshkathuria/pytorch-yolo-v3 to generate the Boinding bOx around the Human.
 
->>>>>>>>>>>Requirements:
+> Requirements:
 
 1. OpenCV Python
 2. yoloV3 weights from the wget https://pjreddie.com/media/files/yolov3.weights
