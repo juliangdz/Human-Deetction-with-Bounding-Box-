@@ -1,8 +1,12 @@
 # Human-Deetction-with-Bounding-Box-
 Human Detection using Pytorch
 
-
+Initial for testing:
 I have Used the Pytorch with YOLO repository from https://github.com/ayooshkathuria/pytorch-yolo-v3 to generate the Boinding bOx around the Human.
+This link did not help me save the video with the bounding box so i had to imrovise.
+
+> Working on the new way
+
 
 > Requirements:
 
